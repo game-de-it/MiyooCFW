@@ -3,7 +3,7 @@
 	url = https://github.com/MiyooCFW/uboot
 [submodule "buildroot"]
 	path = buildroot
-	url = https://github.com/MiyooCFW/buildroot
+	url = https://github.com/game-de-it/MiyooCFW_buildroot
 [submodule "gmenu2x"]
 	path = gmenu2x
 	url = https://github.com/MiyooCFW/gmenu2x
